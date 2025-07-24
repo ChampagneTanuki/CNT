@@ -1,0 +1,11 @@
+{
+  "name": "Champagne Tanuki",
+  "symbol": "CNT",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Champagne Tanuki (CNT) is a community-driven meme token with bubbly energy and playful spirit.",
+  "website": "https://your-project-website.com",  // ← 必要なら正しいURLに
+  "explorer": "https://etherscan.io/token/0x0874497d0fc71e75000be7062b81e76e88107f5b",
+  "status": "active",
+  "id": "0x0874497d0fc71e75000be7062b81e76e88107f5b"
+}
